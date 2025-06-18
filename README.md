@@ -4,4 +4,5 @@
 <!-- img src="https://i.pinimg.com/originals/a1/ba/a6/a1baa611c65d1c2f1fb05420db009099.jpg" alt="Image" width="300"/> -->
 
 Uoft CS & Stats  
+Specializing in ML & Backend Infra  
 Intern @ SWL Co.
