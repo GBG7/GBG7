@@ -5,4 +5,3 @@
 
 Uoft CS & Stats  
 Specializing in ML & Backend Infra  
-Intern @ SWL Co.
